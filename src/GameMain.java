@@ -6,7 +6,7 @@ import model.GameModel;
 
 /**
  * 
- * @author Jason Miller
+ * @author Ason Peikoff
  *
  */
 public class GameMain {
