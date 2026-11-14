@@ -12,7 +12,7 @@ import javax.swing.Timer;
 import view.GameView;
 /**
  * 
- * @author Jason Miller
+ * @author Ason Peikoff
  *
  */
 

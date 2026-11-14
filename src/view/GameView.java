@@ -19,7 +19,7 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 /**
  * 
- * @author Jason Miller
+ * @author Ason Peikoff
  * 
  *
  */
@@ -287,7 +287,7 @@ public class GameView extends JFrame{
 		
 	}
 	public void aboutGame() {
-		String message = "Autor: Jason Miller";
+		String message = "Autor: Ason Peikoff";
 		JOptionPane.showMessageDialog(this, message, "About", JOptionPane.INFORMATION_MESSAGE);
 		
 	}
